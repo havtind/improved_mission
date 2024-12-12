@@ -1,0 +1,10 @@
+.DS_Store
+myvenv
+.pytest_cache
+tests/__pycache__
+images
+data
+TODO.md
+README.md
+
+ 
